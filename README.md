@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+## A little bit about me
+* My name is Thomas Foreman
+* I am a web developer for a local company in Johnson City.
+* My favorite language to work with is Python.
+
+## Skills I am interested in learning:
+* More javascript
+* Hardware interaction
+
+## Projects I am working on currently:
+* Inventory system
+* Work order system
+
+## Favorite Hobbies
+* Coding
+* Playing guitar
+* Drinking coffee while coding
+
 <!--
 **thomas-foreman/thomas-foreman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
