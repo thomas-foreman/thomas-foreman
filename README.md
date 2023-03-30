@@ -12,6 +12,7 @@
 ## Projects I am working on currently:
 * Inventory system
 * Work order system
+* Telemetry System
 
 ## Favorite Hobbies
 * Coding
