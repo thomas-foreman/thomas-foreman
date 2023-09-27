@@ -10,9 +10,9 @@
 * Hardware interaction
 
 ## Projects I am working on currently:
-* Inventory system
-* Work order system
-* Telemetry System
+* Telemetry Hardware
+* Telemetry Firmware
+* Telemetry Cloud Website
 
 ## Favorite Hobbies
 * Coding
